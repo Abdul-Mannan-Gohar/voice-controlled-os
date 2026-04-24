@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![FYP](https://img.shields.io/badge/FYP-2023--2027-purple?style=for-the-badge)
 
-**Semester Year Project — University of Kotli AJK**
+**Semester Project — University of Kotli AJK**
 
 Abdul Mannan Gohar | Rizwan Liaqat | Nadeem Naeem
 
