@@ -7,11 +7,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![FYP](https://img.shields.io/badge/FYP-2023--2027-purple?style=for-the-badge)
 
-**Final Year Project — University of Kotli AJK**
+**Semester Year Project — University of Kotli AJK**
 
 Abdul Mannan Gohar | Rizwan Liaqat | Nadeem Naeem
 
-**Supervisor:** Saima Jawad
 
 </div>
 
@@ -264,7 +263,6 @@ Result: app_cache.json with 500–1500 apps depending on system
 | **Rizwan Liaqat** | Co-Developer |
 | **Nadeem Naeem** | Co-Developer |
 
-**Supervisor:** Saima Jawad
 **Institution:** University of Kotli AJK
 **Session:** 2023–2027
 
