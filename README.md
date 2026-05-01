@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![FYP](https://img.shields.io/badge/FYP-2023--2027-purple?style=for-the-badge)
 
 **Semester Project — University of Kotli AJK**
 
@@ -276,6 +275,6 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## 🙏 Acknowledgements
 
-- University of Kotli AJK for FYP support
+- University of Kotli AJK for Semester support
 - Google Speech Recognition API
 - Python open source community
